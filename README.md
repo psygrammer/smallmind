@@ -1,2 +1,2 @@
-# smallmind
+# Small Mind
 Small Mind
