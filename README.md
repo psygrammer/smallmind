@@ -1,2 +1,5 @@
-# Small Mind
-Small Mind
+# SmallMind
+
+* 스터디명 : 스몰마인드
+* 딥러닝 개인 프로젝트 스터디.
+* 싸이그래머에서 운영
